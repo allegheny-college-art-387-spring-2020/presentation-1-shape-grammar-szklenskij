@@ -6,7 +6,7 @@
 * Assigned: 7 April 2020
 * Due: 17 April 2020
 
-** Remember to use your psuedonyms/"code names" in any documents or pictures! **
+**Remember to use your psuedonyms/"code names" in any documents or pictures!**
 
 ### Supporting readings
 
