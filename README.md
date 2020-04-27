@@ -35,9 +35,9 @@ Your task for this presentation is to find a structure which aligns to or has sy
 
 ## Deliverables
 
-```
+
    ["Shape Grammar"](https://github.com/allegheny-college-art-387-spring-2020/presentation-1-shape-grammar-szklenskij/blob/master/shape%20grammer.pptx)
-```
+
 
 - [ ] A presentation (using Google Slides or another sequential media format i.e. Powerpoint) using the following structure:
   * A slide/page with the chosen **reference structure**'s name, architect, location, and year of construction
